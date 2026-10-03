@@ -12,4 +12,4 @@ public class Operadores2 {
 		System.out.println("a * b = " + multiplicacao);
 		System.out.println("a / b = " + divisao);		
 	}
-}
+} 
