@@ -1,4 +1,4 @@
-public class App {
+public class Main {
     public static void main(String[] args){
         Paciente paciente = new Paciente("João Silva", "123.456.789-00");
         Medico medico = new Medico("Dra. Ana", "Cardiologista");
