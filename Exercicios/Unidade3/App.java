@@ -2,13 +2,11 @@ package Unidade3;
 
 public class App {
     public static void main(String[] args){
-    /*
-    12, tela de 6.1", 256gb
-    Note 20 Ultra, tela de 6.81, 256gb
-     Xiaomi Mi 11 Pro, tela de 8.81, 128gb
-
-     <tipoVariavel> nomeVariavel = valor;
-    */
+        // 12, tela de 6.1", 256gb
+        // Note 20 Ultra, tela de 6.81, 256gb
+        //  Xiaomi Mi 11 Pro, tela de 8.81, 128gb
+        //
+        //  <tipoVariavel> nomeVariavel = valor;
 
     Celular celularA = new Celular();
     celularA.nome = "Iphone 12";
